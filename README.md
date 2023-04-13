@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=지나짱&fontSize=90" />
+
 ### 안녕하세요 👋
 
 <a href="https://jinaon.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-5882FA?style=for-the-badge&logo=tistory&logoColor=FFFFFF"/></a>
