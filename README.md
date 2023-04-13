@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=81BEF7&height=100&section=header&text=🤍　　　Jina's%20Github　　　🤍&fontSize=50&fontColor=000000)
-<a href="https://jinaon.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=tistory&logoColor=FFFFFF"/></a>
+<br><a href="https://jinaon.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=tistory&logoColor=FFFFFF"/></a>
 ### 안녕하세요 지나입니다👋
 
 
