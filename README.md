@@ -10,6 +10,8 @@
 <div>
     <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white" />
     <img src="https://img.shields.io/badge/django-092E20?style=flat&logo=django&logoColor=white" />
+</div>
+    <div>
     <img src="https://img.shields.io/badge/hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=white" />
     <img src="https://img.shields.io/badge/rabbitmq-FF6600?style=flat&logo=rabbitmq&logoColor=white" />
 </div>
