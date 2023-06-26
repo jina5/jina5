@@ -38,7 +38,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jina5&layout=compact"> 
 
-![Jina's GitHub stats](https://github-readme-stats.vercel.app/api?username=jina5&show_icons=true&theme=transparent)
-
-
 </div> 
