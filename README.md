@@ -35,7 +35,4 @@
     <img src="https://img.shields.io/badge/nginx-009639?style=flat&logo=nginx&logoColor=white" />
 </div>
 <br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jina5&layout=compact"> 
-
 </div> 
